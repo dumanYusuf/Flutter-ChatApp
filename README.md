@@ -1,2 +1,3 @@
 # Flutter-ChatApp
- Bu repomda flutter ile ChatApp uygulaması geliştirdim
+Bu uygulamda firebase Auth kullanarak kullanıcalar kayıt olup giriş yaptıktan sonra burda karşılıklı meşajlaşabilecek ve isterse Ayarlar kısmına gidip tema 
+rendinide değiştirebilecek
